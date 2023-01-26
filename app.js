@@ -1,4 +1,3 @@
-//app.js
 const http = require("http");
 const Todo = require("./controller");
 const { getReqData } = require("./utils");
